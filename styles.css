@@ -1,0 +1,214 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: product sans;
+}
+
+#title{
+    background-color:#E9F0F8;
+    margin-top: 15px;
+    border: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo{
+    cursor: pointer;
+    margin-right:auto ;
+}
+li,a{
+   
+    font-weight: 500;
+    font-size: 16px;
+    text-decoration: none;
+    color: grey;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 10%;
+    border: 1px solid #FFFFFF;
+    
+}
+
+.nav-links{
+    list-style: none;
+}
+.nav-links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-links li a{
+   transition: all 0.3s ease 0s;
+}
+
+.nav-links li a:hover{
+    color: #fff;
+    background-color: #000;
+}
+
+#planner-text{
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.text-section{
+    text-align: center;
+    margin-top: 85px;
+}
+
+#intro{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.19px;
+}
+#video{
+    text-align: center;
+    border: 1px solid #E9F0F8;
+    background-color: #F4FCFF;
+}
+
+
+#prioritise{
+    background-color:#FFFFFF;
+    margin-top: 50px;
+    border:2px;
+    text-align: center;
+
+}
+
+
+#create-tasks{
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+
+#create-tasks-text{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.19px;
+
+}
+#poli{
+    align-items: right;
+    padding-top: 50px;
+    padding-left:300px;
+}
+#pen{
+  padding-right: 270px;
+  padding-bottom: 20px;
+}
+
+
+#shedule{
+    background-color:#F5FFF6;
+    margin-top: 50px;
+    border:2px;
+    text-align: center;
+
+}
+
+.shedule-text{
+    margin-top: 260px;
+}
+
+#hollowring,star{
+    margin-left: 450px;
+    margin-top:50px ;
+}
+
+
+#focus{
+    background-color:#FFFFFF;
+    margin-top: 30px;
+    border:2px;
+    text-align: center;
+
+}
+.focus-text,routine-text{
+    margin-top: 260px;
+}
+
+#hand-image{
+    margin-right: 300px;
+    margin-bottom: 30px;
+   
+}
+
+#focus-paragraph,routine-paragraph{
+    margin-top: 30px;
+}
+margin-top: 20px;
+    
+}
+
+#reminder{
+    background-color:#FFF5FB;
+    margin-top: 30px;
+    border:2px;
+    text-align: center;
+
+}
+
+
+#routine{
+    background-color:#FFFFFF;
+    margin-top: 30px;
+    border:2px;
+    text-align: center;
+
+}
+
+#rocket-image{
+    margin-right: 300px;
+    margin-bottom: 30px;
+   
+}
+#subtract{
+    margin-top:100px;
+    margin-left: 300px;
+
+}
+
+#tetomony{
+    
+   background-color: #F5F9FF;
+    
+    margin-left: 80px;
+
+}
+
+.card-img-top{
+    width: 60px;
+    height: 60px;
+    margin-left: 120px;
+    margin-top: 50px;
+    
+    
+    
+}
+
+
+#comming-soon{
+    background-color: #4889ec;
+    margin-top: 20px;
+    color: #FFFFFF;
+   padding-bottom: 230px;
+}
+#store-text{
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 30px;
+    
+}
+
+#end-logo{
+    margin-top: 200px;
+    
+}
